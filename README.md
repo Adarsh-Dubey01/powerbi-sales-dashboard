@@ -4,7 +4,8 @@ An interactive Power BI dashboard designed to analyze, track, and optimize sales
 🚀 Live Demo & Visuals 
 Main Dashboard Page:<img width="1920" height="1080" alt="Screenshot 2026-06-13 234549" src="https://github.com/user-attachments/assets/3d26ec8c-86d1-42f2-9726-8f51ee4201c3" />
 
-Product & Trend Analysis: ![Product Performance](images/product_performance.png)
+Product & Trend Analysis: ![Uploading image.png…]()
+
 🎯 Business Objectives & Key Questions Addressed
 The goal of this project is to provide a single source of truth for the sales management team to:
 
